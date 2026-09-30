@@ -1,6 +1,6 @@
 # Writer's Block Unlimited
 
-A SillyTavern preset for AI roleplay and story generation, built on top of **Writer's Block 5**. It pairs a set of always-on writing rules with a large menu of toggleable settings so you can dial in exactly the voice, pacing, and tone you want.
+A SillyTavern preset for AI roleplay and story generation. It pairs a set of always-on writing rules with a large menu of toggleable settings so you can dial in exactly the voice, pacing, and tone you want.
 
 ## Table of Contents
 
