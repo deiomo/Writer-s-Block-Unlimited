@@ -520,6 +520,8 @@ More details for each can be found in the preset.
 
 Based on how well they follow the CoTs:
 
-- GLM 5.2 / 5.1 / 5.0
+- GLM 5.3 / 5.2 / 5.1 / 5.0
 - Claude Opus 4.6
 - Longcat 2.0
+- Gemma 4 31b
+- Kimi 2.5 (prone to overthinking though)
