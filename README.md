@@ -4,6 +4,8 @@ A SillyTavern preset for AI roleplay and story generation. It pairs a set of alw
 
 # Check out the latest reddit post (I'll be too lazy to update this readme lol)
 
+https://www.reddit.com/r/SillyTavernAI/s/5VZjtcyRnF
+
 ## Table of Contents
 
 - [Overview: Universal Rules](#overview-universal-rules)
