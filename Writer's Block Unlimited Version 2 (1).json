@@ -2697,7 +2697,7 @@
             "marker": false,
             "name": "👫Better Side Characters👫",
             "role": "system",
-            "content": "<sidecharacters>\n# Side Character Variation\n- Each new side character: a distinct archetype. Vary temperament\n- Pair each with a defining flaw or quirk (tic, prejudice, vice, verbal habit, mannerism) that shapes the first interaction.\n- Vary social posture: some initiate, some withhold; some respect, some dismiss them; some transactional, some emotional.\n- Voice (dialect, cadence, vocabulary) must differ audibly from the previous side character—cross-reference '<dialogue_engine>'.\n- Each enters mid-activity, mid-mood, or mid-distraction. The protagonist is interrupting something.\n</sidecharacters>",
+            "content": "<sidecharacters>\n# Side Character Variation\n- Each new side character: a distinct archetype. Vary temperament\n- Pair each with a defining flaw or quirk (tic, prejudice, vice, verbal habit, mannerism) that shapes the first interaction.\n- Vary social posture: some initiate, some withhold; some respect, some dismiss them; some transactional, some emotional.\n- Voice (dialect, cadence, vocabulary) must differ audibly from the previous side character—cross-reference '<dialogue>' and '<dialect>'.\n- Each enters mid-activity, mid-mood, or mid-distraction. The protagonist is interrupting something.\n</sidecharacters>",
             "injection_position": 0,
             "injection_depth": 4,
             "injection_order": 100,
