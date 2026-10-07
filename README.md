@@ -2,7 +2,7 @@
 
 A SillyTavern preset for AI roleplay and story generation. It pairs a set of always-on writing rules with a large menu of toggleable settings so you can dial in exactly the voice, pacing, and tone you want.
 
-# Check out the latest reddit post for (I'll be too lazy to update the features on this readme lol)
+# Check out the latest reddit post for news (I'll be too lazy to update the features on this readme lol)
 
 https://www.reddit.com/r/SillyTavernAI/s/5VZjtcyRnF
 
