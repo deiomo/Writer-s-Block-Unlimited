@@ -4,7 +4,7 @@ A SillyTavern preset for AI roleplay and story generation. It pairs a set of alw
 
 # Check out the latest reddit post for news (I'll be too lazy to update the features on this readme lol)
 
-https://www.reddit.com/r/SillyTavernAI/s/5VZjtcyRnF
+https://www.reddit.com/r/SillyTavernAI/s/twppm2qCVT
 
 ## Table of Contents
 
